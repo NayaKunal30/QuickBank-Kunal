@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Abel:wght@400&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  @apply leading-[normal];
+  background-color: #1F2636;
+  margin: 0; /* Ensure no margin */
+  padding: 0; /* Ensure no padding */
+}
+*,
+::before,
+::after {
+  border-width: 0;
+}
+.animated-image {
+  position: absolute;
+  top: 150px; /* Adjusted top position further up */
+  left: 771.4px; /* Left position remains the same */
+  width: 669px; /* Adjust image width */
+  height: 666px; /* Adjust image height */
+}
+
+/* Optional: Add hover effect */
+.animated-image:hover {
+  transform: scale(1.1); /* Scale up on hover */
+}
