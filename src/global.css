@@ -6,8 +6,7 @@
 body {
   @apply leading-[normal];
   background-color: #1F2636;
-  transform: scale(0.8);
-  transform-origin: 0 0;
+  zoom: 80%;
   margin: 0; /* Ensure no margin */
   padding: 0; /* Ensure no padding */
 }
