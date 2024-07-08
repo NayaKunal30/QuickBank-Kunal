@@ -1,9 +1,9 @@
 
 # QuickBank-Kunal 🏦💻
 
-<img src="./public/demoimage.png" alt="logo" width=1710 height=400 />
-
 Welcome to **QuickBank**, a modern, React-based application designed for seamless UI/UX in online banking. Explore intuitive interfaces, real-time updates, and responsive design for a next-generation banking experience.
+
+<img src="./public/demoimage.png" alt="logo" width=1710 height=400 /> 
 
 ## Features ✨
 - **Intuitive Interfaces:** Designed with user experience in mind. 🧩
@@ -16,9 +16,7 @@ Welcome to **QuickBank**, a modern, React-based application designed for seamles
 Check out our live demo [here](https://quick-bank-kunal.vercel.app/). 🌐
 
 ## Installation ⚙️
-
 To get started with QuickBank-Kunal, follow these steps:
-
 1. **Clone the repository** 📥
    ```bash
    git clone https://github.com/yourusername/QuickBank-Kunal.git
@@ -30,8 +28,7 @@ npm install
 4.Start the development server
 npm start
 
-
-Usage
+Usage:
 Once the development server is running, open your browser and go to http://localhost:3000 to view the application.
 
 Technologies Used 💡
