@@ -23,10 +23,12 @@ To get started with QuickBank-Kunal, follow these steps:
 2. Navigate to the project directory
    ```bash
    cd QuickBank-Kunal
-3.Install dependencies 
-npm install
-4.Start the development server
-npm start
+3. Install dependencies 
+   ```bash
+   npm install
+4. Start the development server
+   ```bash
+   npm start
 
 Usage:
 Once the development server is running, open your browser and go to http://localhost:3000 to view the application.
