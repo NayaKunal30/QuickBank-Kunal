@@ -1,7 +1,7 @@
-<div align='center'>
+
 # QuickBank-Kunal 🏦💻
 
-<img src="./public/demoimage.png" alt="logo" width=1700 height=700 />
+<img src="./public/demoimage.png" alt="logo" width=1710 height=830 />
 
 Welcome to **QuickBank**, a modern, React-based application designed for seamless UI/UX in online banking. Explore intuitive interfaces, real-time updates, and responsive design for a next-generation banking experience.
 
